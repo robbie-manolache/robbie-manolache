@@ -10,6 +10,11 @@ In my spare time, I enjoy learning more about data science and participating in 
 
 
 ## Kaggle Competitions
+For me, Kaggle competitions have been more than just trying to find the winning model. I take as much joy (if not more) in developing automated, scalable workflows. After a few competitions, I moved away from a notebook-centric workflow to one that combined VS Code, the ease of writing custom Python packages and the Kaggle API, as shown below:
+
+![Kaggle-Workflow](img/Kaggle-Workflow.jpg)
+
+In the list of competitions below, the GitHub link takes you to the repo for the package I built for that particular competition:
 
 ### [Jane Street Market Prediction](https://www.kaggle.com/competitions/jane-street-market-prediction)
 > **28th (top 1%)** <br>
